@@ -1,0 +1,18 @@
+.login-form {
+  .actions {
+    justify-content: space-between !important;
+
+    .ui.basic.button {
+      margin: 0;
+    }
+
+    .ui.button.submit {
+      margin-right: 10px !important;
+    }
+
+    .ui.button.btnpass {
+      color: $font-dark !important;
+      background-color: $background-grey-light !important;
+    }
+  }
+}
